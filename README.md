@@ -2,7 +2,8 @@
 #Day one
 - learning markdown
 -  installing python
-#Day three
+#Day two
 -Manipulating data types
 # Day three
 -Building a simple calculator using python.
+
