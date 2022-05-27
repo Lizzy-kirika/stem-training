@@ -27,5 +27,8 @@
 
 # Day nine
 -functions,try and except
+
+# Day ten
+-object-oriented programming
 -
 
